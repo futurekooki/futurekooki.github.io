@@ -1,8 +1,7 @@
 # Game Developer
 
-robert.chrun@yahoo.com | 608.732.9358 | 601 North Maple Street, IL 62353 
 
-###Technical Skills: 
+### Technical Skills: 
 • Programming/Languages: C, C#, Java ,Swift  
 • Database Management: SQL, MySQL, MongoDB 
 • Web development: HTML, CSS, Basic understanding of JavaScript/Typescript, Angular, Node, and React  
@@ -10,7 +9,8 @@ robert.chrun@yahoo.com | 608.732.9358 | 601 North Maple Street, IL 62353
 • Systems: Windows server 2019, VMware Workstation 14, Linux- CentOS, Mac OS X 
 • Version Control: Experienced with Perforce and GitHub  
 
-##EDUCATION 
+## EDUCATION 
+
 Bachelor of Science in Information Technology | University of Missouri, Columbia 
 December 2022 
 Relevant Coursework: Algorithm Design and Programming I & II, Database Applications and Information Systems, 
@@ -18,7 +18,8 @@ Fundamentals of Network Technology, Cyber Security, Topics in Information Techno
 Project and Team Management, Principles of Management, C#/.NET Development, iOS App Development I, Computer 
 System Administration, Web Application Development I & II  
 
-##EXPERIENCE 
+## EXPERIENCE 
+
 **Game Developer | Adroit Studios (2021-2023)**
 ● Held a pivotal role in the innovation and successful execution of three game projects at Adroit Studios, skillfully 
 managing a significant $2 million budget, thereby showcasing adept project management capabilities within the 
