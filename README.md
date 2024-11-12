@@ -9,13 +9,13 @@
 
 - Web development: HTML, CSS, Basic understanding of JavaScript/Typescript, Angular, Node, and React  
 
-- Cloud Services: AWS  
+ - Cloud Services: AWS  
 
 - Systems: Windows server 2019, VMware Workstation 14, Linux- CentOS, Mac OS X 
 
 - Version Control: Experienced with Perforce and GitHub  
 
-## EDUCATION 
+## Education 
 
 Bachelor of Science in Information Technology | University of Missouri, Columbia 
 December 2022 
@@ -24,8 +24,7 @@ Fundamentals of Network Technology, Cyber Security, Topics in Information Techno
 Project and Team Management, Principles of Management, C#/.NET Development, iOS App Development I, Computer 
 System Administration, Web Application Development I & II  
 
-## EXPERIENCE 
-
+## Experince
 **Game Developer | Adroit Studios (2021-2023)**
 
 - Held a pivotal role in the innovation and successful execution of three game projects at Adroit Studios, skillfully 
@@ -41,7 +40,7 @@ in overall team efficiency.
 -Spearheaded the implementation of Agile methodologies, leading to a substantial 15% reduction in post-release bug 
 fixes and contributing significantly to a notable 20% decrease in development cycle time. 
 
-**Peer Learning Assistant | Introduction to Virtual Reality | University of Missouri, Columbia  (2021-2022)** 
+**Peer Learning Assistant | Introduction to Virtual Reality | University of Missouri (2021-2022)** 
 
 - Provided comprehensive guidance and mentorship to a diverse group of over 20 students enrolled in a challenging 
 Virtual Reality class, focusing on coursework and hands-on coding proficiency utilizing Unity and C#.
