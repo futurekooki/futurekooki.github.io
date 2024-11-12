@@ -9,7 +9,7 @@
 
 - Web development: HTML, CSS, Basic understanding of JavaScript/Typescript, Angular, Node, and React  
 
-• Cloud Services: AWS  
+- Cloud Services: AWS  
 
 - Systems: Windows server 2019, VMware Workstation 14, Linux- CentOS, Mac OS X 
 
