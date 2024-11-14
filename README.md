@@ -16,9 +16,10 @@
 - Version Control: Experienced with Perforce and GitHub  
 
 ## Education 
+**Bachelor of Science in Information Technology | University of Missouri, Columbia 
+December 2022**
 
-Bachelor of Science in Information Technology | University of Missouri, Columbia 
-December 2022 
+
 Relevant Coursework: Algorithm Design and Programming I & II, Database Applications and Information Systems, 
 Fundamentals of Network Technology, Cyber Security, Topics in Information Technology, Object-Oriented Programming, 
 Project and Team Management, Principles of Management, C#/.NET Development, iOS App Development I, Computer 
@@ -54,5 +55,17 @@ in overall team efficiency.
 
 - Spearheaded the implementation of Agile methodologies, leading to a substantial 15% reduction in post-release bug 
 fixes and contributing significantly to a notable 20% decrease in development cycle time. 
+
+
+# Project 1
+**Hypnophobia**
+
+![Screenshot 1](assets/MainMenu.png)
+![Screenshot 2](assets/house.png)
+![Screenshot 3](assets/Tutorial.png)
+
+
+[Download the Game](https://drive.google.com/file/d/1Q7MJWnuD_N_L0eWb5BKXBuy2nSm0hWnS/view?usp=sharing)
+ 
 
 
