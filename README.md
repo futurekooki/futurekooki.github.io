@@ -69,7 +69,36 @@ two developers and two 3D modelers, we undertook the task of creating this proje
 ![Screenshot 3](/Assets/Images/Tutorial.PNG)
 
 
-[Download the Game](https://drive.google.com/file/d/1Q7MJWnuD_N_L0eWb5BKXBuy2nSm0hWnS/view?usp=sharing)
+[Download Hypnophobia](https://drive.google.com/file/d/1Q7MJWnuD_N_L0eWb5BKXBuy2nSm0hWnS/view?usp=sharing)
  
 
 
+# Project 2
+**Weather Application**
+
+A simple weather forecast app that tells you a cities weather and 5 day forecast. Made in  C# as a way to learn APIS for my first time, I also used the Newton.Json Library to help me handle parsing and
+use the JSON file data. I also have a different version I coded in Java as a pratice, if interested I can also send you a download to that version, or will eventually add it to this site.
+
+![Screenshot 1](Assets/Images/StartWeatherApp.PNG)
+![Screenshot 2](/Assets/Images/DataFill.PNG)
+
+
+[Download Weather Application](https://drive.google.com/file/d/1Uc7lQZ6kEZlun1EtZn3fLwaFRJX9zG1f/view?usp=drive_link)
+
+
+# Project 3
+**Prosocial**
+
+One of the biggest games Ive gotten to work on so far in my proffesional carrer. vSchool boasted a $2 million budget, and was created as an education assesment styled game.
+Some of the work I did on the game includes setting up the gym scene in the game. This included using timelines, interfaces, scriptables objects delegates, events, and collections. I also
+updated the games input system to unitys new input system, and desinged player movement and basic gameplay mechanics.
+
+
+ 
+[![Watch a trailer for vSchool](https://img.youtube.com/vi/Hfn-XPt76Zc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Hfn-XPt76Zc)
+
+[Play/Download vSchool](https://adroitmu.itch.io/vschool)
+
+
+
+ 
