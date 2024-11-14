@@ -24,7 +24,7 @@ Fundamentals of Network Technology, Cyber Security, Topics in Information Techno
 Project and Team Management, Principles of Management, C#/.NET Development, iOS App Development I, Computer 
 System Administration, Web Application Development I & II  
 
-## Experince
+## Experince 1
 **Peer Learning Assistant | Introduction to Virtual Reality | University of Missouri (2021-2022)** 
 
 - Provided comprehensive guidance and mentorship to a diverse group of over 20 students enrolled in a challenging 
@@ -39,6 +39,7 @@ experiences and the timely resolution of student concerns.
 - Cultivated a positive and inclusive learning environment, fostering student engagement and success through 
 encouragement and tailored support
 
+## Experince 2
  **Game Developer | Adroit Studios (2021-2023)**
 
 - Held a pivotal role in the innovation and successful execution of three game projects at Adroit Studios, skillfully 
