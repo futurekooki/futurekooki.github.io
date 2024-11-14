@@ -60,9 +60,9 @@ fixes and contributing significantly to a notable 20% decrease in development cy
 # Project 1
 **Hypnophobia**
 
-![Screenshot 1](/assets/MainMenu.png)
-![Screenshot 2](/assets/house.png)
-![Screenshot 3](/assets/Tutorial.png)
+![Screenshot 1](/assests/Images/MainMenu.PNG)
+![Screenshot 2](/assets/Images/house.PNG)
+![Screenshot 3](/assets/Images/Tutorial.PNG)
 
 
 [Download the Game](https://drive.google.com/file/d/1Q7MJWnuD_N_L0eWb5BKXBuy2nSm0hWnS/view?usp=sharing)
