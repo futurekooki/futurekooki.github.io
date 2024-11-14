@@ -25,7 +25,6 @@ Project and Team Management, Principles of Management, C#/.NET Development, iOS 
 System Administration, Web Application Development I & II  
 
 ## Experince
-
 **Game Developer | Adroit Studios (2021-2023)**
 
 - Held a pivotal role in the innovation and successful execution of three game projects at Adroit Studios, skillfully 
