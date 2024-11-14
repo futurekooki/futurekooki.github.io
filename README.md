@@ -25,7 +25,8 @@ Project and Team Management, Principles of Management, C#/.NET Development, iOS 
 System Administration, Web Application Development I & II  
 
 ## Experince
-**Game Developer | Adroit Studios (2021-2023)**
+
+# Game Developer | Adroit Studios (2021-2023)
 
 - Held a pivotal role in the innovation and successful execution of three game projects at Adroit Studios, skillfully 
 managing a significant $2 million budget, thereby showcasing adept project management capabilities within the 
@@ -40,7 +41,7 @@ in overall team efficiency.
 - Spearheaded the implementation of Agile methodologies, leading to a substantial 15% reduction in post-release bug 
 fixes and contributing significantly to a notable 20% decrease in development cycle time. 
 
-**Peer Learning Assistant | Introduction to Virtual Reality (2021-2022)** 
+# Peer Learning Assistant | Introduction to Virtual Reality | University of Missouri (2021-2022)** 
 
 - Provided comprehensive guidance and mentorship to a diverse group of over 20 students enrolled in a challenging 
 Virtual Reality class, focusing on coursework and hands-on coding proficiency utilizing Unity and C#.
