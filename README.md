@@ -60,9 +60,13 @@ fixes and contributing significantly to a notable 20% decrease in development cy
 # Project 1
 **Hypnophobia**
 
-![Screenshot 1](/assests/Images/MainMenu.PNG)
-![Screenshot 2](/assets/Images/house.PNG)
-![Screenshot 3](/assets/Images/Tutorial.PNG)
+Hypnophobia represents a significant milestone in my academic journey, serving as the capstone project for my college graduation. Collaborating with a team of three talented individuals, comprising 
+two developers and two 3D modelers, we undertook the task of creating this project from scratch, encompassing various aspects, including textures, sounds, and visual elements.
+
+
+![Screenshot 1](/Assets/Images/MainMenu.PNG)
+![Screenshot 2](/Assets/Images/house.PNG)
+![Screenshot 3](/Assets/Images/Tutorial.PNG)
 
 
 [Download the Game](https://drive.google.com/file/d/1Q7MJWnuD_N_L0eWb5BKXBuy2nSm0hWnS/view?usp=sharing)
