@@ -107,7 +107,7 @@ updated the games input system to unitys new input system, and desinged player m
 A simple audio vizualizor project i did in Java,it marked a milestone in my development career as  first time using MVC. Just upload a song and watch it be visualized! Also change up the settings to
 change how many bands there are,
 
-![Screenshot 1](Assets/Images/Visualizor.PNG)
+![Screenshot 1](Assets/AudioViz.gif)
 
 
 [Download V](https://drive.google.com/file/d/1J4nXAdoCWjbXOtTgpXIIIafEMMDxeH45/view?usp=drive_link)
