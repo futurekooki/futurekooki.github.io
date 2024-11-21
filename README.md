@@ -110,5 +110,5 @@ change how many bands there are,
 ![Screenshot 1](Assets/AudioViz.gif)
 
 
-[Download V](https://drive.google.com/file/d/1J4nXAdoCWjbXOtTgpXIIIafEMMDxeH45/view?usp=drive_link)
+[Download Audio Vizualizor Here](https://drive.google.com/file/d/1J4nXAdoCWjbXOtTgpXIIIafEMMDxeH45/view?usp=drive_link)
  
